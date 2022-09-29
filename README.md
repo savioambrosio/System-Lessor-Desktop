@@ -1,3 +1,3 @@
 # Sistema-Locadora-Desktop
 
-### Software de gestão para uma empresa prestadora de serviços de aluguel de veiculos Desktop, permitindo que a empresa possa trabalhar de uma forma flexível e de forma mais dinámica.
+Management software for a company providing Desktop car rental services, allowing the company to work in a flexible and more dynamic way.
